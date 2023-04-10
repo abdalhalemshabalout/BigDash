@@ -1,0 +1,15 @@
+Functional Requirements:
+
+1- Admin Panel
+2- User Authentication and Authorization
+3- Search and Filtering 
+4- Add to Cart and Checkout 
+5- Order Tracking
+
+
+Non-functional Requirements:
+
+1- Reliability
+2- Security 
+3- Scalability
+4- Performance
