@@ -1,0 +1,9 @@
+give time (in Days ) to finish the project:
+60 Days
+
+planning: 5 Days
+database: 5 Days
+figma : 5 Days
+API backend: 15 Days
+Frontend : 20 Days
+test : 10 Days
